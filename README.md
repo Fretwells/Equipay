@@ -7,4 +7,4 @@ This project utilizes the following Web Development frameworks and tools (among 
 - React-Bootstrap
 - Firebase
 
-This repository builds upon work completed by Daniel Pham, Ryan Carroll, and Shane Fretwell.
+This repository builds upon work completed by Daniel Pham, Ryan Carroll, and myself, Shane Fretwell. Any changes seen in the log of this repository are my work alone.
